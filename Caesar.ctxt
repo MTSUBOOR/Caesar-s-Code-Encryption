@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sentence
+comment0.target=Caesar(java.lang.String)
+comment1.params=
+comment1.target=void\ createArray()
+comment2.params=
+comment2.target=void\ message()
+numComments=3
